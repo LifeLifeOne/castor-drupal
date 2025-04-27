@@ -1,5 +1,0 @@
-In ContextRegistry.php line XXXX:
-
-  Since there are multiple contexts "one", "two", you must set a "default: true" context.
-
-

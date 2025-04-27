@@ -1,2 +1,0 @@
-First call: yes
-Second call: no

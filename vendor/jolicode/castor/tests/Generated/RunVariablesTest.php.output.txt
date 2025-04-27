@@ -1,4 +1,0 @@
-Output: ba'"`r
-
-Error output:
-Exit code: 0

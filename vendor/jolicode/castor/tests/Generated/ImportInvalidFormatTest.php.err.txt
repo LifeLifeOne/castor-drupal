@@ -1,5 +1,0 @@
-In castor.php line XXXX:
-
-  Could not import "invalid-package-name": The import path must be formatted like this: "composer://<organization>/<repository>".
-
-
