@@ -1,0 +1,11 @@
+# Compiled files
+*.phar
+*.linux.x86_64
+
+# Dependencies
+./vendor/
+
+# Local configuration
+.idea/
+.vscode/
+.DS_Store

@@ -1,0 +1,8 @@
+{
+    "require": {
+        "jolicode/castor": "^0.24.0"
+    },
+    "require-dev": {
+        "bamarni/composer-bin-plugin": "*"
+    }
+}
