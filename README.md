@@ -16,7 +16,7 @@ Outil en ligne de commande pour initialiser rapidement et facilement un projet D
 
 ```bash
 # Télécharger le binaire
-curl -OL https://github.com/votre-compte/drupal-init/releases/latest/download/drupal-init.linux.x86_64
+curl -OL https://github.com/LifeLifeOne/castor-drupal/releases/download/v1.0/drupal-init.linux.x86_64
 
 # Le rendre exécutable
 chmod +x drupal-init.linux.x86_64
